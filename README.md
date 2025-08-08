@@ -1,4 +1,5 @@
 # SpaFoundation: A visual foundation model for spatial transcriptomics
+Here we present SpaFoundation, a versatile visual foundational model with 80 million trainable parameters, pre-trained on 1.84 million histological image patches to learn general-purpose imaging representations. Using histology images alone, SpaFoundation accurately infers spatial gene expression and demonstrates strong robustness and transferability across tasks such as super-resolution inference, tumor detection, and spatial clustering. 
 ![Overview](overview.jpg)
 ## Requirements
 
