@@ -1,2 +1,2 @@
-# SpaFoundation
-A visual foundation model for spatial transcriptomics
+# SpaFoundation: A visual foundation model for spatial transcriptomics
+![Overview](overview.png)
