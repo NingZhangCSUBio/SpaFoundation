@@ -12,7 +12,7 @@
 - scprep == 1.2.3  
 - timm == 0.9.16  
 - ipykernel == 6.29.3  
-
-For environment management, we recommend [conda](https://docs.conda.io/en/latest/).
+We recommend creating a new Conda virtual environment with Python 3.8 and setting up the environment according to the above requirements.
+For environment management, we recommend [conda](https://docs.conda.io/en/latest/). 
 
 
